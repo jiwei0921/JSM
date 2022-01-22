@@ -8,14 +8,15 @@ Source repository for our paper entilted "[Joint Semantic Mining for Weakly Supe
 
 ## Pre-Implementation
 
-1. **DenseCRF Installation**: Refer to DenseCRF Readme.md, and run demo successfully.
-2. **Pytorch Environment**: Run ```conda install pytorch torchvision cudatoolkit=10.1 -c pytorch```.
-3. Run ```pip install tqdm```.
-4. Run ```pip install pandas```.
-5. Run ```pip install tensorboardX```.
-6. Run ```pip install fairseq```. Possible Question "SyntaxError: invalid syntax", please see FAQ-Q1 below.
-7. Run ```pip install scipy```.
-8. Run ```pip install matplotlib```.
+1. ```vim ./DenseCRF/README.md ```
+2. **DenseCRF Installation**: Refer to [DenseCRF Readme.md](https://github.com/jiwei0921/JSM/blob/main/DenseCRF/README.md), and run demo successfully.
+3. **Pytorch Environment**: Run ```conda install pytorch torchvision cudatoolkit=10.1 -c pytorch```.
+4. Run ```pip install tqdm```.
+5. Run ```pip install pandas```.
+6. Run ```pip install tensorboardX```.
+7. Run ```pip install fairseq```. Possible Question "SyntaxError: invalid syntax", please see FAQ-Q1 below.
+8. Run ```pip install scipy```.
+9. Run ```pip install matplotlib```.
 
 ------
 
