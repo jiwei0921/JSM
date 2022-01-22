@@ -5,7 +5,7 @@ If you want to know more about CRF, you can refer to [here](http://graphics.stan
 
    
 ## Dependencies
-**Test successful on 2080Ti / RTX 3090 / Tesla P40 GPU**
+**Test successfully on 2080Ti / RTX 3090 / Tesla P40 GPU**
 1. Initial conda environment: ```conda create -n JSM python=3.7```.
 2. ```conda activate JSM```
 3. Install ***pydensecrf***: ```pip install git+https://github.com/lucasb-eyer/pydensecrf.git```
