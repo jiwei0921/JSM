@@ -22,8 +22,8 @@ Source repository for our paper entilted "[Joint Semantic Mining for Weakly Supe
 
 ### Our JSM Implementation (Weakly Supervised)
 
-1. Inference stage: ```python demo_test.py```; Using [Pre-trained Model](), e.g., ```ckpt_name = '.48'```.  
-2. Train stage: ```CUDA_VISIBLE_DEVICES=2 python demo_train.py```                             
+1. **Inference stage**: ```python demo_test.py```; Using [Pre-trained Model](), e.g., ```ckpt_name = '.48'```.  
+2. **Training stage**: ```CUDA_VISIBLE_DEVICES=2 python demo_train.py```                             
 3. Check the log file: ```cat ./result.txt```
 4. Load the training details: ```tensorboard --logdir=/YourComputer/JSM_model/runs/*```
 
