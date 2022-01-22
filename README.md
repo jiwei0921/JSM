@@ -40,7 +40,7 @@ Source repository for our paper entilted "[Joint Semantic Mining for Weakly Supe
 ### Saliency Results
 
 Our weakly-supervied saliency results can be approached in [Baidu Cloud (Passworde: m10a)](https://pan.baidu.com/s/1oPJjR2apBvnbUkmNokr3CQ) or [Google Drive](https://drive.google.com/file/d/1VwvTZFwRUtoEdymv5RzxywWuBmn4z7Xx/view?usp=sharing).
-Note: If you want to use our JSM to test on your modified dataset, you can load our pretrained ckpt and run ```python demo_test.py``` directly.
+If you want to use our JSM to test on your own dataset, you can load our pretrained ckpt and run ```python demo_test.py``` directly.
 
 
 
